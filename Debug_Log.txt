@@ -1,1 +1,8 @@
-Debug_Log.txt
+Debug_Log.txt[2019-03-31 23:32:08 INFO] Player disconnected: StingingRug5562, xuid: 2535423151597187
+[2019-03-31 23:32:16 INFO] Player disconnected: zhangsam311, xuid: 2535414836669241
+[2019-03-31 23:32:29 INFO] Player connected: StingingRug5562, xuid: 2535423151597187
+[2019-03-31 23:32:33 INFO] Player connected: zhangsam311, xuid: 2535414836669241
+[2019-03-31 23:33:32 INFO] Player disconnected: StingingRug5562, xuid: 2535423151597187
+[2019-03-31 23:33:32 INFO] Player disconnected: zhangsam311, xuid: 2535414836669241
+[2019-03-31 23:34:31 INFO] Player disconnected: xiaodaimaster, xuid: 2533274992960119
+[2019-03-31 23:34:51 INFO] Player connected: StingingRug5562, xuid: 2535423151597187
